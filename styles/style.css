@@ -134,9 +134,6 @@
   color: #2f80ed;
   margin: 0;
 }
-.two-columns__main-text {
-  justify-content: space-between;
-}
 .paragraph {
   line-height: 32px;
   font-size: 24px;
@@ -150,6 +147,7 @@
   margin: 30px 0;
 }
 .two-columns__main-text {
+  justify-content: space-between;
   width: 80%;
   min-width: 784px;
 }
@@ -246,7 +244,6 @@
 .feynman__link {
   position: relative;
   z-index: 2;
-  position: absolute;
   right: 48px;
   top: 50%;
   font-size: 36px;
