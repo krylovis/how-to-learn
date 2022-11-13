@@ -338,11 +338,11 @@
   background-size: cover;
 }
 .youTube-icon {
-  background-image: url(/images/youtube-icon.svg);
+  background-image: url(../images/youtube-icon.svg);
 }
 .vk-icon {
-  background-image: url(/images/vk_color_white.svg);
+  background-image: url(../images/vk_color_white.svg);
 }
 .tikTok-icon {
-  background-image: url(/images/tiktok-icon.svg);
+  background-image: url(../images/tiktok-icon.svg);
 }
