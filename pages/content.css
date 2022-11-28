@@ -41,7 +41,6 @@
 /* --------------- kaufman --------------- */
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/_block_kaufman/table__cell_block_kaufman.css);
-@import url(../blocks/kaufman/_theme/kaufman_theme_dark.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 /* --------------- resources --------------- */
 @import url(../blocks/resources/resources.css);
