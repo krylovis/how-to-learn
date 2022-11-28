@@ -42,3 +42,20 @@
   color: #2f80ed;
   text-decoration: none;
 }
+
+.section-title {
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  padding: 0;
+  width: 60%;
+}
+
+.section-subtitle {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  padding: 0;
+  width: 60%;
+}
