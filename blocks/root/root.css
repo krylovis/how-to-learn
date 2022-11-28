@@ -41,6 +41,12 @@
 .link {
   color: #2f80ed;
   text-decoration: none;
+  opacity: 1;
+  transition: opacity .3s ease;
+}
+
+.link:hover {
+  opacity: .8;
 }
 
 .section-title {
