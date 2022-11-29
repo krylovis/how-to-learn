@@ -2,3 +2,15 @@
   box-sizing: border-box;
   width: 100%;
 }
+
+.video__iframes {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  gap: 20px;
+}
+
+.video__iframe {
+  width: 515px;
+  height: 326px;
+}
