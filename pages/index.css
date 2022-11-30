@@ -1,7 +1,28 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/root/root.css);
+/* --------------- rotation --------------- */
 @import url(../blocks/rotation/rotation.css);
+/* --------------- theme-dark --------------- */
 @import url(../blocks/theme-dark/theme-dark.css);
+/* --------------- section-title --------------- */
+@import url(../blocks/section-title/section-title.css);
+/* --------------- section-subtitle --------------- */
+@import url(../blocks/section-subtitle/section-subtitle.css);
+/* --------------- position-relative --------------- */
+@import url(../blocks/position-relative/position-relative.css);
+/* --------------- flex-row --------------- */
+@import url(../blocks/flex-row/flex-row.css);
+@import url(../blocks/flex-row/_wrap/flex-row_wrap.css);
+/* --------------- flex-column --------------- */
+@import url(../blocks/flex-column/flex-column.css);
+/* --------------- centered-block --------------- */
+@import url(../blocks/centered-block/centered-block.css);
+/* --------------- centered-text --------------- */
+@import url(../blocks/centered-text/centered-text.css);
+/* --------------- list --------------- */
+@import url(../blocks/list/list.css);
+/* --------------- link --------------- */
+@import url(../blocks/link/link.css);
 /* --------------- logo --------------- */
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place_header/logo_place_header.css);
