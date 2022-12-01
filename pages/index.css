@@ -25,7 +25,7 @@
 @import url(../blocks/link/link.css);
 /* --------------- logo --------------- */
 @import url(../blocks/logo/logo.css);
-@import url(../blocks/logo/_place_header/logo_place_header.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
 /* --------------- two-columns --------------- */
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
